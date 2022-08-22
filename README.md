@@ -3,5 +3,7 @@
 ### Author : Ersin Berke Alemdaroglu
 
 #### App Images
-![image](/ss1.png),![image](/ss3.png),![image](/ss2.png)
+![image](/ss1.png)
+![image](/ss3.png)
+![image](/ss2.png)
 
