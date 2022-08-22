@@ -2,7 +2,7 @@
 ## Roll The Dice App
 ### Author : Ersin Berke Alemdaroglu
 
-####NameSpace (İsim Alanı) Nedir?
+#### NameSpace (İsim Alanı) Nedir?
 Namaspace (isim alanı) kullanımı, amacı aynı olan classları, fonkisyonları ve özellikleri bir grup altında toplamaya yardımcı olur.
 
 Namespace .Net framework kütüphanesinde içinde barındırılan classları ve veri türlerini kullanmak için namespacelere ihtiyaç duyulmaktadır.
