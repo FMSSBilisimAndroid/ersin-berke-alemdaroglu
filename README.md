@@ -10,6 +10,14 @@ Namespace kavramı her buluş gibi bir sorun neticesinde hayatımız girmiştir.
 
 Örnek olarak, .Net ile geliştirdiğimiz uygulamada "System.Collections.Generic" içinde yer alan classları kullanabiliriz. İstersek kendi list sınıfımızıda yazabiliriz.
 
+Kısaca; aynı isimde farklı sınıflar oluşturmak için kullandığımız küme adlarına namespace denir.
+
+İsim alanlarından; sınıflar, fonksiyonlar ve sabitler etkilenir. Çoğunlukla sınıflara tanımlanır.
+
+Örneğin: Hem satıcı hem alıcı bulunduran bir e-ticaret sistemi yazıyoruz. Böyle bir sistemde kullanıcıların, mantıken birbirinden farklı özelliklere sahip olması gerekir. 
+
+ İki ayrı sınıfı, aynı dosyada çalıştırmaya çalıştığımız anda PHP bize; "kafam karıştı, bir tane Kullanici sınıfı tanımla" diyecektir. İşte tam burada namespace devreye giriyor. 
+
 #### Author : Ersin Berke Alemdaroglu
 
 ##### App Images
